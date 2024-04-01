@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "video": "generated_videos/scene-0535",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\nDescribe the events encountered by the ego vehicle in traffic in a concise manner.The following is a small video of a traffic scene shot from an egocentric perspective"
+      },
+      {
+        "from": "gpt",
+        "value": "the ego vehicle takes a right turn at an intersection at night.the ego vehicle passes by pedestrians waiting at a bustop at night."
+      }
+    ]
+  }
+]
